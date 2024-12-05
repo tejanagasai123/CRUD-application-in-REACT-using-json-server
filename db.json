@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "id": "8",
+      "name": "teja sai",
+      "place": "San Diego",
+      "ph_no": "12378945653"
+    },
+    {
+      "id": "9",
+      "name": "Ian Scott",
+      "place": "Dallas",
+      "ph_no": "4569873210"
+    },
+    {
+      "id": "10",
+      "name": "Julia Roberts",
+      "place": "lose angles",
+      "ph_no": "7891234560"
+    },
+    {
+      "id": "7",
+      "name": "ak",
+      "place": "rajamendry",
+      "ph_no": "994968910"
+    }
+  ]
+}
