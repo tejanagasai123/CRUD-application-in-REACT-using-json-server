@@ -15,10 +15,6 @@ A full-fledged CRUD (Create, Read, Update, Delete) application built using **Rea
 - ✏️ Update: Edit existing records through dynamic routing.
 - 🗑️ Delete: Remove records with confirmation.
 
-## 🖥️ Demo Screens
-
-*(Add screenshots or screen recording GIFs here if available)*
-
 ## 🔧 Setup Instructions
 
 ### 1. Clone the repository
